@@ -10,7 +10,7 @@
 <h1>
 	Hello world!  쉐어드 디스토리 삭제후 변경
 </h1>
-푸시하자
+
 <P>  The time on the server is ${serverTime}. </P>
 </body>
 </html>
