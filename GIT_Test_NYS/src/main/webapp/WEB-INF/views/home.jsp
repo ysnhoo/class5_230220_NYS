@@ -8,7 +8,7 @@
 </head>
 <body>
 <h1>
-	Hello world!  쉐어드 디스토리 삭제후 변경
+	Hello world!  쉐어드 디스토리 삭제후 재변경
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
